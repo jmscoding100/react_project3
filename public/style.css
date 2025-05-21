@@ -1,0 +1,36 @@
+*{box-sizing: border-box;}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #eaeae3;
+}
+
+header{
+    padding: 10px 0;
+    box-shadow: 0 0 10px #777;
+}
+
+.nav-list{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+main{
+    padding: 40px 0;
+}
+
+
+section{
+    margin: 40px 0;
+}
+
+.nav-item{
+    display: inline;
+    margin: 0 10px;
+}
+
+
+.nav-link{
+    color: rebeccapurple;
+}
